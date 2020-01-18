@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">I-Health</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="url_server">https://healthcareass.000webhostapp.com/api/</string>
+    <string name="url_user_read">user/read.php</string>
+    <string name="url_user_read_one">user/read_one.php</string>
+    <string name="url_user_create">user/create.php</string>
+    <string name="email">Email</string>
+    <string name="gender">Gender</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="account">Account</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="signOut">Sign Out</string>
+        <string name="Age">Age</string>
+        <string name="Gender">Gender</string>
+        <string name="Weight">Weight</string>
+        <string name="Height">Height</string>
+        <string name="Activity">Activity</string>
+        <string name="EnterYourAge">Enter Your Age</string>
+        <string name="EnterYourWeight">Enter You Weight</string>
+        <string name="EnterYourHeight">Enter Your Height</string>
+        <string name="CaloriesCalculator">CaloriesCalculator</string>
+        <string name="calculateBMI">Calculate</string>
+        <string name="very_severely_underweight">Very severely underweight</string>
+        <string name="severely_underweight">Severely underweight</string>
+        <string name="underweight">Underweight</string>
+        <string name="normal">Normal</string>
+        <string name="overweight">Overweight</string>
+        <string name="obese_class_i">Obese Class I(Moderately Obese)</string>
+        <string name="obese_class_ii">Obese Class II(Severely Obese)</string>
+        <string name="obese_class_iii">Obese Class III(Very Severely Obese)</string>
+        <string name="url_news_read">news/read.php</string>
+    <string name="done">DONE</string>
+    <string name="intro">Introduction</string>
+    <string name="how">How-to</string>
+    <string name="Edit">edit_profile</string>
+    <string name="url_edit">user/update.php</string>
+    <string name="age">Age</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Reset">Reset</string>
+    <string name="waterNeeded">Water needed : </string>
+    <string name="waterCalculater">Water Needed Calculator</string>
+    <string name="bmiCalculator">BMI Calculator</string>
+    <string name="litre">litre</string>
+    <string name="WeightInput">Weight in kg</string>
+    <string name="HeightInput">Height in cm</string>
+    <string-array name="age_group">
+        <item>Less than 4</item>
+        <item>4 to 8</item>
+        <item>9 to 13</item>
+        <item>14 to 18</item>
+        <item>More than 19</item>
+    </string-array>
+</resources>
